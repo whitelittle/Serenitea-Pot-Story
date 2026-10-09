@@ -1,0 +1,6 @@
+# OS / 编辑器噪音
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+*.tmp

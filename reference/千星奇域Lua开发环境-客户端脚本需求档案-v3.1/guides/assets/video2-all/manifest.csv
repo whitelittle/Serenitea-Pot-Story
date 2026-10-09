@@ -1,0 +1,45 @@
+﻿page,sample_second,sample_time,title,file,source_url
+1,35,00:35,补间动画是什么,page-01-035s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+2,52,00:52,先准备容器与脚本,page-02-052s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+3,60,01:00,从模板创建图片,page-03-060s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+4,90,01:30,读懂一次 API 调用,page-04-090s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+5,112,01:52,先设置，再创建，最后播放,page-05-112s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+6,135,02:15,水平移动,page-06-135s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+7,144,02:24,垂直移动,page-07-144s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+8,147,02:27,斜向移动,page-08-147s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+9,154,02:34,等比缩放,page-09-154s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+10,158,02:38,横向缩放,page-10-158s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+11,160,02:40,纵向缩放,page-11-160s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+12,163,02:43,Z 轴缩放,page-12-163s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+13,170,02:50,宽度变化,page-13-170s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+14,174,02:54,高度变化,page-14-174s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+15,180,03:00,Z 轴旋转,page-15-180s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+16,186,03:06,X 轴旋转,page-16-186s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+17,189,03:09,Y 轴旋转,page-17-189s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+18,194,03:14,图片变色,page-18-194s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+19,201,03:21,图片淡出,page-19-201s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+20,204,03:24,图片淡入,page-20-204s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+21,216,03:36,水平填充,page-21-216s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+22,224,03:44,垂直填充,page-22-224s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+23,229,03:49,90 度环绕填充,page-23-229s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+24,234,03:54,180 度环绕填充,page-24-234s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+25,239,03:59,360 度环绕填充,page-25-239s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+26,242,04:02,最小锚点 X,page-26-242s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+27,244,04:04,最小锚点 Y,page-27-244s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+28,246,04:06,最大锚点 X,page-28-246s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+29,248,04:08,最大锚点 Y,page-29-248s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+30,252,04:12,中心点 X,page-30-252s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+31,255,04:15,中心点 Y,page-31-255s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+32,260,04:20,水平羽化宽度,page-32-260s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+33,266,04:26,垂直羽化宽度,page-33-266s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+34,274,04:34,水平羽化范围,page-34-274s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+35,278,04:38,垂直羽化范围,page-35-278s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+36,286,04:46,线性与缓动,page-36-286s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+37,293,04:53,同时变化,page-37-293s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+38,300,05:00,先后变化,page-38-300s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+39,310,05:10,全部缓动类型 · 1 / 2,page-39-310s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+40,317,05:17,全部缓动类型 · 2 / 2,page-40-317s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+41,324,05:24,可补间字段 · 所有控件共有,page-41-324s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+42,330,05:30,可补间字段 · 图片控件,page-42-330s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+43,334,05:34,可补间字段 · 文字与网格视窗,page-43-334s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
+44,338,05:38,可补间字段 · 其余控件,page-44-338s.jpg,https://www.bilibili.com/video/BV1DieU6rEiQ/
